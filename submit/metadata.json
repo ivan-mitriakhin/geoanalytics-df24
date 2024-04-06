@@ -1,0 +1,4 @@
+{
+    "image": "imitriakhin/vtb24-datafusion:latest",
+    "entry_point": "python -u run.py"
+}
